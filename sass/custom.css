@@ -14,6 +14,10 @@
   background-position: 85% top;
 }
 
+.opacity-70 {
+  opacity: 0.7;
+}
+
 /*!
  * Bootstrap v5.0.0-beta2 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors

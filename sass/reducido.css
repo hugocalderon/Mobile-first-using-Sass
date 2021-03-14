@@ -14,6 +14,10 @@
   background-position: 85% top;
 }
 
+.opacity-70 {
+  opacity: 0.7;
+}
+
 /*!
  * Bootstrap v5.0.0-beta2 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
@@ -86,6 +90,20 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+a {
+  color: #733FC8;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #5c32a0;
+}
+
+a:not([href]):not([class]), a:not([href]):not([class]):hover {
+  color: inherit;
+  text-decoration: none;
 }
 
 img {
@@ -305,6 +323,10 @@ img {
   padding: 0.5rem !important;
 }
 
+.fs-5 {
+  font-size: 1.25rem !important;
+}
+
 .fs-6 {
   font-size: 1rem !important;
 }
@@ -315,6 +337,10 @@ img {
 
 .lh-1 {
   line-height: 1 !important;
+}
+
+.lh-sm {
+  line-height: 1.25 !important;
 }
 
 .bg-primary {

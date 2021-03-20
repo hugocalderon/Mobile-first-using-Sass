@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://hopeful-dijkstra-5526a8.netlify.app/)
+- Solution URL: [Solution URL here](https://hopeful-dijkstra-5526a8.netlify.app/)
 
 ## My process
 
